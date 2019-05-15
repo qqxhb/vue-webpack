@@ -9,3 +9,5 @@ npm install
 ```
 npm run dev
 ```
+-配置讲解
+https://blog.csdn.net/qq_43792385/article/details/90233089
